@@ -1,0 +1,23 @@
+{
+  "name": "dandelion-nex",
+  "version": "0.0.1",
+  "description": "dandelion nex API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uf0/dandelion-nex.git"
+  },
+  "author": "uf0",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/uf0/dandelion-nex/issues"
+  },
+  "homepage": "https://github.com/uf0/dandelion-nex#readme",
+  "dependencies": {
+    "mongodb": "^2.2.29",
+    "request": "^2.81.0"
+  }
+}
