@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/uf0/dandelion-nex#readme",
   "dependencies": {
+    "async": "^2.4.1",
+    "d3-dsv": "^1.0.5",
     "mongodb": "^2.2.29",
     "request": "^2.81.0"
   }
